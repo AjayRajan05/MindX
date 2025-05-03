@@ -95,6 +95,4 @@ streamlit run app.py
 
 Make sure you have valid Azure OpenAI credentials and an active deployment before running the application.
 =======
-# MindX
->>>>>>> 1db826a4be2dd53c147399d11ba60eb4b2379d65
 
