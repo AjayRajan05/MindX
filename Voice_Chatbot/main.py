@@ -4,6 +4,7 @@ import os
 import json
 import glob
 import csv
+import difflib
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -114,7 +115,6 @@ def load_knowledge_base(directory="knowledge_base"):
 
     return knowledge_base
 
-import difflib
 
 def find_answer(faq, question):
     # Use fuzzy matching to find closest question in FAQ
