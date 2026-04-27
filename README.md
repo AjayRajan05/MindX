@@ -1,4 +1,4 @@
-# 🚀 MindX AI Internship – AI Projects Portfolio
+# 🚀 MindX AI Internship - AI Projects Portfolio
 
 ## 📌 Overview
 This repository showcases the work completed during my internship at **MindX AI Company**, where I built intelligent AI-powered applications using **Microsoft Azure AI Services**. The internship focused on designing scalable, real-world solutions in conversational AI, automation, and voice-based systems.
@@ -7,7 +7,7 @@ This repository showcases the work completed during my internship at **MindX AI 
 
 ## 🧠 Projects Included
 
-### 1️⃣ CreawAI – Intelligent Content & Workflow Assistant
+### 1️⃣ CreawAI - Intelligent Content & Workflow Assistant
 **Description:**  
 CreawAI is an AI-powered assistant that automates content generation and enhances productivity through smart workflows.
 
@@ -94,9 +94,9 @@ MindX-Internship/
 ---
 
 ## 🔗 Project Links
-- 🔹 CreawAI → []  
-- 🔹 FAQ Chatbot → [Add Your Link Here]  
-- 🔹 Voice Chatbot → [Add Your Link Here]  
+- 🔹 CreawAI → [Click Here](https://github.com/AjayRajan05/MindX/tree/main/CrewAI)
+- 🔹 FAQ Chatbot → [Click Here](https://github.com/AjayRajan05/MindX/tree/main/FAQ-Chatbot)
+- 🔹 Voice Chatbot → [Click Here](https://github.com/AjayRajan05/MindX/tree/main/Voice_Chatbot)]  
 
 ---
 
